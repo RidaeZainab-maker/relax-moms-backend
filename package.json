@@ -1,0 +1,8 @@
+{
+  "name": "relax-moms-backend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "openai": "^7.0.0"
+  }
+}
